@@ -1,6 +1,6 @@
 
 #Question 1
-puts (55 * 12) / 100.00
+puts (55 * 18) / 100.00
 
 #Question 2
 3.to_s
